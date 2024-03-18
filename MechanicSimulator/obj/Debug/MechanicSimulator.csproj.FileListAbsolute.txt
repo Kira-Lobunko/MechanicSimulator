@@ -1,0 +1,31 @@
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\bin\Debug\MechanicSimulator.exe.config
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\bin\Debug\MechanicSimulator.exe
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\bin\Debug\MechanicSimulator.pdb
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.Properties.Resources.resources
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.exe
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.pdb
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.ConfigForm.resources
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.AddMechanicForm.resources
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.AddBaseTask.resources
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Professional\source\repos\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.CopyComplete
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\bin\Debug\MechanicSimulator.exe.config
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\bin\Debug\MechanicSimulator.exe
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\bin\Debug\MechanicSimulator.pdb
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.AssemblyReference.cache
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.AddBaseTask.resources
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.AddMechanicForm.resources
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.ConfigForm.resources
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.Properties.Resources.resources
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.GenerateResource.cache
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.csproj.CopyComplete
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.exe
+C:\Users\Kira\YandexDisk\нгту\2 курс\прога\MechanicSimulator\MechanicSimulator\obj\Debug\MechanicSimulator.pdb
